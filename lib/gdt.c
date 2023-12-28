@@ -2,7 +2,6 @@
 #include "print.h"
 
 // Define the GDT entries
-struct gdt_entry gdt_entries[5];
 
 // Define the GDT pointer
 struct gdt_ptr gdt_ptr;
